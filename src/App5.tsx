@@ -16,7 +16,7 @@ function App5() {
 
     m1.name="원숭이";
     m1.isMan=false;
-    //m1.num=2; //readOnly여서 이건 안 된다
+    //m1.num=2; //readOnly여서 이건 안 된다 테스트테스트 
     
     return (
         <div>
